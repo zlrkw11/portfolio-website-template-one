@@ -1,13 +1,11 @@
 ---
-title: Duvet Genius
-publishDate: 2020-03-04 00:00:00
-img: /assets/stock-3.jpg
-img_alt: Pearls of silky soft white cotton, bubble up under vibrant lighting
+title: Project 3
+publishDate: 2020-10-02 00:00:00
+img: /assets/stock-4.jpg
 description: |
-  We developed a virtual showcase for the softest bedding imaginable.
+  This is the description for Project 3
 tags:
   - Design
-  - Dev
   - Branding
 ---
 
