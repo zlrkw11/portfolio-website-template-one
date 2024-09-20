@@ -83,13 +83,22 @@ Finally, you can open the `src/styles/global.css` file to view the project wide 
 The main stuff you might want to change is the accent colours on *lines 19 to 22*, and font on *lines 74 to 77*.
 
 #### Styling
-Now commit your changes! You can do this by running the following commands:
+Now commit your changes! You can do this by clicking the source control button:
 
-```
-git add .
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/65403541-8797-4198-97c1-47a6ac08261c">
 
-git commit -m "My First Commit!"
-```
+Staging all your changes,
+
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/7e70e846-2bd6-412c-9ae6-a96993cea528">
+
+Entering a message and pressing commit
+
+![image](https://github.com/user-attachments/assets/3b2eb31b-d4ee-4146-8d47-4057f934eeba)
+
+Now click Sync Changes and press **OK** if it informs you that **this action will pull and push commits from and to "origin/main"**
+
+![image](https://github.com/user-attachments/assets/e3a7fa03-6ca4-4f30-953f-d09b042ed96f)
+
 
 
 ### Extras
