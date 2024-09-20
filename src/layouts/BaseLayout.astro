@@ -2,8 +2,8 @@
 // Learn about using Astro layouts:
 // https://docs.astro.build/en/core-concepts/layouts/
 
-// Component Imports
-import MainHead from "../components/MainHead.astro";
+import "../styles/global.css";
+
 import Nav from "../components/Nav.astro";
 import Footer from "../components/Footer.astro";
 
@@ -12,12 +12,26 @@ interface Props {
   description?: string | undefined;
 }
 
-const { title, description } = Astro.props;
+// Edit the default title and description here
+const { title = "Portfolio Title", description = "Portfolio Description" } =
+  Astro.props;
 ---
 
 <html lang="en">
   <head>
-    <MainHead title={title} description={description} />
+    <meta charset="UTF-8" />
+    <meta name="description" property="og:description" content={description} />
+    <meta name="viewport" content="width=device-width" />
+    <meta name="generator" content={Astro.generator} />
+    <title>{title}</title>
+
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,400;0,700;1,400&family=Rubik:wght@500;600&display=swap"
+      rel="stylesheet"
+    />
   </head>
   <body>
     <div class="stack backgrounds">

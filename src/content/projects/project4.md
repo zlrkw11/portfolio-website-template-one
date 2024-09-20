@@ -5,9 +5,9 @@ img: /assets/stock-1.jpg
 description: |
   This is the description for Project 4
 tags:
-  - Design
-  - Dev
-  - User Testing
+  - React
+  - Java
+  - MySQL
 ---
 
 ## Level-two heading
