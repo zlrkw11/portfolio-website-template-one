@@ -82,6 +82,15 @@ Finally, you can open the `src/styles/global.css` file to view the project wide 
 
 The main stuff you might want to change is the accent colours on *lines 19 to 22*, and font on *lines 74 to 77*.
 
+#### Styling
+Now commit your changes! You can do this by running the following commands:
+
+```
+git add .
+
+git commit -m "My First Commit!"
+```
+
 
 ### Extras
 
