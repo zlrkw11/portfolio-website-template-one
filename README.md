@@ -12,7 +12,12 @@ Open the repository using IDX, or on your local machine with your favorite text 
 
 #### Running the code
 
-To view the portfolio, run `npm run dev` in the terminal -- you should see the contents of the webpage on `localhost:4321`. This content will be refreshed anytime a file is saved.
+To view the portfolio, run `npm run dev` in the terminal -- you should see the contents of the website on `localhost:4321`. This content will be refreshed anytime a file is saved.
+
+Alternatively, if you're using Project IDX, click on the link in the terminal to open up your website.
+
+![image](https://github.com/user-attachments/assets/2e20ca8e-e78d-4cc2-a15c-8c8c25415a1c)
+
 
 #### Changing Text
 
