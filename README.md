@@ -1,16 +1,18 @@
-## Usage
+***
+# GDSC Portfolio Template #1,
 
-### Basic Usage
-
-After downloading, simply edit the `.astro` and `.md` files included with the template in a code editor to make changes. To preview the changes you make to the code, run `npm run dev`.
-
-### Walkthrough
+## 📃 License
+This project is licensed under the MIT License. See the `LICENSE` file for details.
+***
+## Instructions
 
 Follow the steps to [Fork](https://github.com/Developer-Student-Club-UoA/portfolio-website-workshop?tab=readme-ov-file#creating-and-deploying-a-portfolio-on-github-and-netlify) this repository using the instructions found in the parent repository.
 
 Open the repository using IDX, or on your local machine with your favorite text editor.
 
-Run the code using `npm run dev` in the terminal -- you should see the contents of the webpage on `localhost:4321`.
+#### Running the code
+
+To view the portfolio, run `npm run dev` in the terminal -- you should see the contents of the webpage on `localhost:4321`. This content will be refreshed anytime a file is saved.
 
 #### Changing Text
 
@@ -82,7 +84,7 @@ Finally, you can open the `src/styles/global.css` file to view the project wide 
 
 The main stuff you might want to change is the accent colours on *lines 19 to 22*, and font on *lines 74 to 77*.
 
-#### Styling
+#### Commit
 Now commit your changes! You can do this by clicking the source control button:
 
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/65403541-8797-4198-97c1-47a6ac08261c">
