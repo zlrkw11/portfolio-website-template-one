@@ -114,3 +114,5 @@ Of course, you can customise your portfolio and add virtually anything you want.
 
 ### Deployment
 To learn about how to deploy your newly created portfolio on netlify, please return to the parent repo and follow the [Deployment Instructions](https://docs.astro.build/en/basics/astro-components/) there.
+
+https://zl-portfolio.netlify.app
